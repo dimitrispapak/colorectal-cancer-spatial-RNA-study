@@ -1,0 +1,9 @@
+# .gitignore for Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+venv/
+*.csv
+*.data
+*.pickle
