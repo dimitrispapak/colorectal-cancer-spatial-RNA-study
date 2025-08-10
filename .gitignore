@@ -8,3 +8,5 @@ venv/
 *.data
 *.pickle
 .*
+!/.gitignore
+!/.github/
