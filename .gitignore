@@ -1,0 +1,18 @@
+# .gitignore file content
+
+# Ignore everything by default
+*
+
+# But don't ignore these file types
+!*.py
+!*.R
+!*.r
+!*.sh
+
+# Don't ignore the .gitignore file itself
+!.gitignore
+
+# Optional: Ignore specific files that might match the patterns above
+# For example, you might want to ignore compiled Python files
+*.py[cod]
+__pycache__/
