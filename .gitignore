@@ -8,6 +8,8 @@
 !*.R
 !*.r
 !*.sh
+!*.ipynb
+!*.md
 
 # Don't ignore the .gitignore file itself
 !.gitignore
