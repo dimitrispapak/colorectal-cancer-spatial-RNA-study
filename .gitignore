@@ -2,8 +2,8 @@
 
 # Ignore everything by default
 *
-!scripts/
 !notebooks/
+!scripts/
 # But don't ignore these file types
 !*.py
 !*.R
